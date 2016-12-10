@@ -1,0 +1,2 @@
+这是一个简单的demo，所有模型资源都是从unity asset store下载的
+将horror.exe和horror_Date解压后的文件放在同一个文件里即可使用。
